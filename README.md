@@ -17,12 +17,14 @@ Features:
 
 ## How to install
 
-The development team at Bibliotheca Alexandrina is in the process of having the Virtual Antiquities Museum application reviewed for publishing on the App Lab and eventually the Oculus Quest Store. Until then, the application as APK is also available to download from GitHub and sideload onto the headset. Please see the following for instructions on sideloading:
+The Virtual Antiquities Museum by Bibliotheca Alexandrina is now available for sideloading from [SideQuest](https://sidequestvr.com). Please see the following for instructions on application sideloading from SideQuest:
 
-[SideQuest VR Easy Setup 2023](https://www.youtube.com/watch?v=I47cxLsGFRY)
+[SideQuest PC Tutorial - How to Sideload VR apps on your Quest 2?](https://www.youtube.com/watch?v=lFTXv2aScJ8)
 
-[How to Install APK Files on the Quest 2](https://www.youtube.com/watch?v=zzizceAOW-w)
+[SideQuest Mobile Tutorial - How to Sideload VR apps on your Quest 2](https://www.youtube.com/watch?v=hduObw_FNDw)
 
-[Install APKs From Inside Your Quest 2](https://www.youtube.com/watch?v=xNPB1F3OfUU)
+[How to Get SideQuest on Quest 2](https://www.youtube.com/watch?v=AcoOgmAxesM)
 
-[Install APK on Oculus Quest 2 without SidQquest](https://www.youtube.com/watch?v=cJYmL430U7g)
+The direct link to the application on SideQuest is:
+
+https://sidequestvr.com/app/13381/virtual-antiquities-museum
