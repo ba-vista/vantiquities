@@ -15,8 +15,7 @@ Features:
 - Open tombs and expose the mummy within
 - Scrutinize the floor mosaics that were unearthed at the construction site
 
-
-How to install:
+## How to install
 
 The development team at Bibliotheca Alexandrina is in the process of having the Virtual Antiquities Museum application reviewed for publishing on the App Lab and eventually the Oculus Quest Store. Until then, the application as APK is also available to download from GitHub and sideload onto the headset. Please see the following for instructions on sideloading:
 
